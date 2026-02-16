@@ -21,7 +21,7 @@
     "static-generate": "node bin/generate.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.0.0",
     "nuxt": "^1.0.0",
     "vue-showdown": "^2.0.2"
   },
